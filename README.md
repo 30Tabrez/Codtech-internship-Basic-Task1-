@@ -1,7 +1,3 @@
-Below is a detailed **README** file for the **Temperature Conversion Program**:
-
----
-
 # Temperature Conversion Program
 
 ## Overview
